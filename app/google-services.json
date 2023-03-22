@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710534378441",
+    "firebase_url": "https://contactmanagerapp1-default-rtdb.firebaseio.com",
+    "project_id": "contactmanagerapp1",
+    "storage_bucket": "contactmanagerapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710534378441:android:e78f515f858e150daeee18",
+        "android_client_info": {
+          "package_name": "com.example.contactmanagerapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710534378441-el6dipk45bisplvm8sd242vgck7jorhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtmhsyhXCtZcfvij6A5BGAlr3HCiuSXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710534378441-el6dipk45bisplvm8sd242vgck7jorhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
